@@ -1,6 +1,6 @@
 # A Laravel integration for Xero using the Oauth 2.0 spec
 
-
+This package is based on Webfox (https://github.com/webfox/laravel-xero-oauth2) Package.
 
 This package integrates the new reccomended package of [xeroapi/xero-php-oauth2](https://github.com/XeroAPI/xero-php-oauth2) using the Oauth 2.0 spec with
 Laravel.
